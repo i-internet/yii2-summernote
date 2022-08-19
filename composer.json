@@ -35,13 +35,11 @@
     },
     "require": {
         "php": ">=7.3",
-        "yiisoft/yii2": "^2.0.20",
         "bower-asset/codemirror": "@stable",
         "bower-asset/summernote": "^0.8.20"
     },
     "require-dev": {
-        "aws/aws-sdk-php": "^3.148.0",
-        "yiisoft/yii2-coding-standards": "~2.0"
+        "aws/aws-sdk-php": "^3.148.0"
     },
     "replace": {
         "marqu3s/yii2-summernote": "^1.0.0"
